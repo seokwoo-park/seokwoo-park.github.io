@@ -1,26 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.bd7bcee9.chunk.css",
-    "main.js": "/static/js/main.ac956706.chunk.js",
-    "main.js.map": "/static/js/main.ac956706.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.64de9f1b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.64de9f1b.js.map",
-    "static/css/2.06382735.chunk.css": "/static/css/2.06382735.chunk.css",
-    "static/js/2.e3990c2e.chunk.js": "/static/js/2.e3990c2e.chunk.js",
-    "static/js/2.e3990c2e.chunk.js.map": "/static/js/2.e3990c2e.chunk.js.map",
-    "static/js/3.d6116a19.chunk.js": "/static/js/3.d6116a19.chunk.js",
-    "static/js/3.d6116a19.chunk.js.map": "/static/js/3.d6116a19.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.06382735.chunk.css.map": "/static/css/2.06382735.chunk.css.map",
-    "static/css/main.bd7bcee9.chunk.css.map": "/static/css/main.bd7bcee9.chunk.css.map",
-    "static/js/2.e3990c2e.chunk.js.LICENSE.txt": "/static/js/2.e3990c2e.chunk.js.LICENSE.txt",
-    "static/media/Banner.css": "/static/media/landscape-5811471_1920.953ac652.jpg"
+    "main.css": "/project-a-design/static/css/main.7d180cbf.chunk.css",
+    "main.js": "/project-a-design/static/js/main.ba523ce8.chunk.js",
+    "main.js.map": "/project-a-design/static/js/main.ba523ce8.chunk.js.map",
+    "runtime-main.js": "/project-a-design/static/js/runtime-main.25335237.js",
+    "runtime-main.js.map": "/project-a-design/static/js/runtime-main.25335237.js.map",
+    "static/js/2.4e486897.chunk.js": "/project-a-design/static/js/2.4e486897.chunk.js",
+    "static/js/2.4e486897.chunk.js.map": "/project-a-design/static/js/2.4e486897.chunk.js.map",
+    "static/js/3.0e73e03d.chunk.js": "/project-a-design/static/js/3.0e73e03d.chunk.js",
+    "static/js/3.0e73e03d.chunk.js.map": "/project-a-design/static/js/3.0e73e03d.chunk.js.map",
+    "index.html": "/project-a-design/index.html",
+    "static/css/main.7d180cbf.chunk.css.map": "/project-a-design/static/css/main.7d180cbf.chunk.css.map",
+    "static/js/2.4e486897.chunk.js.LICENSE.txt": "/project-a-design/static/js/2.4e486897.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.64de9f1b.js",
-    "static/css/2.06382735.chunk.css",
-    "static/js/2.e3990c2e.chunk.js",
-    "static/css/main.bd7bcee9.chunk.css",
-    "static/js/main.ac956706.chunk.js"
+    "static/js/runtime-main.25335237.js",
+    "static/js/2.4e486897.chunk.js",
+    "static/css/main.7d180cbf.chunk.css",
+    "static/js/main.ba523ce8.chunk.js"
   ]
 }
